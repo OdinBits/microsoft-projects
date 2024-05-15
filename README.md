@@ -4,7 +4,7 @@ Welcome to the Microsoft Projects Hub. Here you'll find links to all the project
 
 ## Projects
 
-1. [Project 1](https://github.com/YourOrganization/microsoft-project-1)
+1. [Project 1](https://github.com/OdinBits/microsoft-spfx-foc-tracker-wp.git)
 2. [Project 2](https://github.com/YourOrganization/microsoft-project-2)
 3. [Project 3](https://github.com/YourOrganization/microsoft-project-3)
 
